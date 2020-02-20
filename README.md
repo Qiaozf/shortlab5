@@ -1,4 +1,4 @@
 # Short lab 5
-# Stat302 Short lab 5
+Stat302 Short lab 5
 # A line I wrote using the shell on my local computer
 # A line I wrote using Rstudio
